@@ -1,2 +1,1 @@
-Vulkan-ohjelmointirajapinta.pdf
-[Link](https://github.com/ilkp/ilkp.github.io/blob/main/Vulkan-ohjelmointirajapinta.pdf)
+<a href="ilkp.github.io/folder/Vulkan-ohjelmointirajapinta.pdf" target="_blank">PDF.</a>
