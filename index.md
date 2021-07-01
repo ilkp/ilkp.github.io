@@ -1,2 +1,2 @@
 
-[a relative link](Vulkan-ohjelmointirajapinta.pdf)
+[Vulkan-ohjelmointirajapinta.pdf](Vulkan-ohjelmointirajapinta.pdf)
