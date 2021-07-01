@@ -1,2 +1,2 @@
 
-[Vulkan-ohjelmointirajapinta.pdf](Vulkan-ohjelmointirajapinta.pdf)
+[Vulkan-ohjelmointirajapinta](Vulkan-ohjelmointirajapinta.pdf)
