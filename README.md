@@ -1,3 +1,3 @@
 # ilkp.github.io
 
-[Vulkan-ohjelmointirajapinta](Vulkan-ohjelmointirajapinta.pdf)
+[Vulkan-ohjelmointirajapinta](https://ilkp.github.io/Vulkan-ohjelmointirajapinta.pdf)
